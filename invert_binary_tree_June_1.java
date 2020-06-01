@@ -1,4 +1,4 @@
-![Screenshot](invert_binary_tree.png)
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
