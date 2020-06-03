@@ -19,5 +19,10 @@ First we need to check if the node which is to be deleted is the last node. if i
 
 If it is a node in middle than we can assign the value of next node to this node. After that we can set the next of this node to next of next node
 
+                                                                 June 3
+                                                                 
+![Screenshot](Two_City_Scheduling.png)
+                                                                 
+
                                                    
                                                     
