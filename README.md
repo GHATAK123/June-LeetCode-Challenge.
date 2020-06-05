@@ -25,6 +25,9 @@ If it is a node in middle than we can assign the value of next node to this node
 
                                                                  June 4
                                                                  
+## Explanation of Input Syntax:
+
+The input is two lists: the subroutines called and their arguments. Solution's constructor has one argument, the array w. pickIndex has no arguments. Arguments are always wrapped with a list, even if there aren't any.                                                                 
 ![Screenshot](reverse_string.png)                                                    
                                                                                        
                                                                  June 5
