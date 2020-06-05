@@ -25,8 +25,11 @@ If it is a node in middle than we can assign the value of next node to this node
 
                                                                  June 4
                                                                  
-![Screenshot](reverse_string.png)
-                                                                 
+![Screenshot](reverse_string.png)                                                    
+                                                                                       
+                                                                 June 5
+                                                                                                                            
+![Screenshot](random_pick_with_weight.png)                                                                
 
                                                    
                                                     
