@@ -13,3 +13,14 @@ class Solution {
         
     }
 }
+
+
+
+## New Solution in java
+
+public boolean isPowerOfTwo(int n) {
+
+    int log=(int)(Math.round(Math.log10(n)/Math.log10(2)));
+    
+    return (Math.pow(2,log)==n);
+}
